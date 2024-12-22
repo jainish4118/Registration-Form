@@ -1,0 +1,13 @@
+.heading{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 15px;
+    background-color: rgb(47, 144, 112);
+}
+.main{
+    border: 2px solid black;
+    background-color: rgb(194, 170, 133);
+}
+.Gen{
+    margin-left: 20px;
+    font-size: 18px;
+}
